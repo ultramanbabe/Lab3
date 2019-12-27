@@ -2,9 +2,9 @@
 using namespace std;
 
 int main(){
-    double x=0,n=2;
+    double x=0,n=6;
 
-    while(n<=69){
+    while(n<=19){
         x=x+(1/n);
         n++;
     }
